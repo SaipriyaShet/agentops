@@ -5,8 +5,8 @@ import pandas as pd
 API_BASE = "https://agentops-7lsn.onrender.com"
 
 st.set_page_config(page_title="AgentOps Dashboard", layout="wide")
-
-st.title("🧠 AgentOps – System Dashboard")
+st.title("📊 AgentOps – Autonomous BI Dashboard")
+st.caption("Live multi-agent analytics with memory, ML & adaptive reasoning")
 
 # ---------------------------
 # Load system state
@@ -76,3 +76,10 @@ else:
 # ---------------------------
 if st.button("🔄 Refresh"):
     st.rerun()
+
+if st.button("▶ Run demo query"):
+    requests.post(
+        f"{API_BASE}/query",
+        json={"user_query": "why did revenue drop"}
+    )
+    st.success("Demo query executed. Refreshing dashboard…")
