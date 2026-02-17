@@ -1,0 +1,8 @@
+Revenue is the total income generated from sales.
+
+A revenue drop usually happens due to:
+- Reduced user traffic
+- Lower conversion rate
+- Seasonal effects
+
+Sales data is reviewed daily by the analytics team.

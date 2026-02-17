@@ -1,0 +1,154 @@
+[
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "reason": "Revenue within expected range",
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T07:48:44.415975"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "reason": "Revenue within expected range",
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:23:23.145843"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "reason": "Revenue within expected range",
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:24:04.492679"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "reason": "Revenue within expected range",
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:33:37.852816"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "adaptive_thresholds": {
+        "drop_threshold": 0.8,
+        "spike_threshold": 1.2,
+        "anomaly_history": 0
+      },
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:37:21.391685"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "adaptive_thresholds": {
+        "drop_threshold": 0.8,
+        "spike_threshold": 1.2,
+        "anomaly_history": 0
+      },
+      "details": {
+        "latest_revenue": 900,
+        "historical_average": 1100
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 1033.33,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:41:48.059587"
+  },
+  {
+    "query": "why did revenue drop",
+    "anomaly": {
+      "anomaly": false,
+      "severity": "low",
+      "adaptive_thresholds": {
+        "drop_threshold": 0.8,
+        "spike_threshold": 1.2,
+        "anomaly_history": 0
+      },
+      "details": {
+        "latest_revenue": 866,
+        "historical_average": 728.44
+      }
+    },
+    "forecast": {
+      "forecast_next_period": 779.67,
+      "method": "moving_average"
+    },
+    "actions": [
+      "Prepare resources based on forecasted demand"
+    ],
+    "timestamp": "2026-02-16T14:45:49.990252"
+  }
+]

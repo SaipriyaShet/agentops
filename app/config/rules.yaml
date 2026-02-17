@@ -1,0 +1,6 @@
+anomaly:
+  drop_threshold: 0.8
+  spike_threshold: 1.2
+
+forecast:
+  window_size: 3

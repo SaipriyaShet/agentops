@@ -1,0 +1,15 @@
+
+---
+
+## 5️⃣ FREEZE DEPENDENCIES
+
+Create **`requirements.txt`**:
+
+```txt
+fastapi
+uvicorn
+pydantic
+requests
+streamlit
+pandas
+scikit-learn
